@@ -2,7 +2,7 @@
 
 VocalizeMe is a web application that allows you to convert text into speech using Text-to-Speech (TTS) technology. You can input text, select a language, adjust speech speed, and listen to the converted speech or download it as an audio file.
 
-![VocalizeMe Screenshot](screenshot.png)
+![VocalizeMe Screenshot](Screenshot.png)
 
 ## Features
 
