@@ -10,6 +10,17 @@ VocalizeMe is a web application that allows you to convert text into speech usin
 - **Play and Download**: Listen to the speech or download it as an audio file.
 - **Error Handling**: Provides a warning message if you try to submit empty text.
 
+## Built With
+
+This web application was built using the following technologies and libraries:
+
+- HTML5
+- CSS3
+- JavaScript
+- [Bootstrap](https://getbootstrap.com/) - CSS framework
+- [Axios](https://github.com/axios/axios) - HTTP client for making API requests
+
+
 ## How to Use
 
 1. Enter the text you want to convert into
